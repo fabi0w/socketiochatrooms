@@ -4,7 +4,7 @@
 * 2. `git clone git@github.com:fern4lvarez/socketiochatrooms.git`
 * 3. `[sudo] npm install`
 * 4. To run locally: `node app.js`
-* 5. Create app on cloudControl: `cctrlapp APP_NAME create custom https://github.com/heroku/heroku-buildpack-nodejs.git`
+* 5. Create app on cloudControl: `cctrlapp APP_NAME create nodejs`
 * 6. Push and deploy:
 
 ```
